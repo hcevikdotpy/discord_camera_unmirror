@@ -2,7 +2,6 @@
 
 A lightweight Chrome extension that removes the horizontal flip (mirror effect) from your own camera feed in Discord video calls.
 
-By default, Discord mirrors your camera so it looks like a reflection. This is a deliberate UX choice, but some users prefer to see themselves as others see them — un-mirrored. Discord doesn't offer a setting to change this, so this extension fills that gap.
 
 ## Features
 
